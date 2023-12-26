@@ -135,7 +135,7 @@ li {
   color: #fff;
   font-size: 20px;
   font-weight: 700;
-  cursor: pointer;
+  cursor: default;
 }
 
 .registration__action {
