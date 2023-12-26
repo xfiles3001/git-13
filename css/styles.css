@@ -6,8 +6,6 @@
 
 /*=============== BASE ===============*/
 * {
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
 }
 
@@ -85,7 +83,7 @@ li {
 
 .registration__form {
   display: grid;
-  gap: 20px;
+  gap: 10px;
 }
 
 .registration__details {
@@ -120,7 +118,6 @@ li {
 .registration__terms-text {
   color: #636363;
   font-size: 16px;
-  font-weight: 700;
 }
 
 .registration__action {
@@ -128,15 +125,15 @@ li {
 }
 
 .registration__btn {
-  width: 210px;
+  width: 250px;
   border-radius: 40px;
   background: #dd3142;
   padding: 21px;
   border: none;
-  color: #fff;
+  color: pink;
   font-size: 20px;
   font-weight: 700;
-  cursor: pointer;
+  cursor: default;
 }
 
 .registration__action {

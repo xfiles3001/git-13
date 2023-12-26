@@ -26,7 +26,7 @@ window.onload = function () {
     if (checked) {
       console.log("Согласен");
     } else {
-      console.log("Не согласен");
+      console.log("Удален");
     }
   };
 
