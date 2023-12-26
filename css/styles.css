@@ -85,7 +85,7 @@ li {
 
 .registration__form {
   display: grid;
-  gap: 20px;
+  gap: 10px;
 }
 
 .registration__details {
