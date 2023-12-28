@@ -121,3 +121,5 @@ window.onload = function () {
     });
   });
 };
+
+console.log('Это гит-13 репо тест')
