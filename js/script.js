@@ -123,3 +123,4 @@ window.onload = function () {
 };
 
 console.log('Это сообщение основное регистрации');
+console.log('Это гит-13 репо тест')
