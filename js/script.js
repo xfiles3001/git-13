@@ -121,3 +121,5 @@ window.onload = function () {
     });
   });
 };
+
+console.log('Это сообщение основное регистрации');
